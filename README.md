@@ -64,6 +64,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dileep0553/dileep0553/output/snake.svg" alt="Snake animation" />
-
 ###
