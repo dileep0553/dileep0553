@@ -1,4 +1,4 @@
-<h2 align="left">🚀 Full Stack Developer | React Specialist | 5+ Years Experience | Crafting Innovative Web Solutions 🚀</h2>
+<h2 align="left">🚀 Full Stack Developer | Java/React Specialist | 6+ Years Experience | Crafting Innovative Web Solutions 🚀</h2>
 
 ###
 
